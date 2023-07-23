@@ -9,5 +9,6 @@ Steps:
    Usage :
    Passman -a your password
    Passman -r    #this will print the password after providing the correct key
-   Key: 12899 just random one you can edit it as per your need
+   Key: 12899 just random one you can edit it.
+   
 
